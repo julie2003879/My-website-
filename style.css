@@ -1,0 +1,18 @@
+body {
+    font-family: Arial;
+    transition: 0.3s;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.hidden {
+    display: none;
+}
+
+#menu {
+    background: lightgray;
+    padding: 10px;
+}
